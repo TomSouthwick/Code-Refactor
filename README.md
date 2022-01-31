@@ -22,7 +22,7 @@
     ·
     <a href="https://github.com/TomSouthwick/Code-Refactor/issues">Request Feature</a>
      ·
-    <a href="https://github.com/TomSouthwick/Code-Refactor/">View the live page</a>
+    <a href="https://tomsouthwick.github.io/Code-Refactor/">View the live page</a>
   </p>
 </div>
 <div align="center">
