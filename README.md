@@ -14,17 +14,19 @@
   <p align="center">
     Refactoring HTML to account for SEO. 
     <br />
-    <a href="https://github.com/TomSouthwick/Homework-Week-1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TomSouthwick/Code-Refactor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/TomSouthwick/Homework-Week-1/issues">Report Bug</a>
+    <a href="https://github.com/TomSouthwick/Code-Refactor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TomSouthwick/Homework-Week-1/issues">Request Feature</a>
+    <a href="https://github.com/TomSouthwick/Code-Refactor/issues">Request Feature</a>
+     ·
+    <a href="https://github.com/TomSouthwick/Code-Refactor/">View the live page</a>
   </p>
 </div>
 <div align="center">
-<img src="./assets/images/Giph-homework-week-1.gif" width="90%" height="100%">
+<img src="./assets/images/Giph-Code-Refactor.gif" width="90%" height="100%">
 </div>
  <br />
  <br />
@@ -89,7 +91,7 @@ Ensure that VS Code has the required languages with the respective functionaliti
 
 1. Clone the repo
    ```sh
-   git clone hhttps://github.com/TomSouthwick/Homework-Week-1.git
+   git clone hhttps://github.com/TomSouthwick/Code-Refactor.git
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -100,7 +102,7 @@ Ensure that VS Code has the required languages with the respective functionaliti
 
 Inspect the HTML document to understand how a standard index.html article can be broken down into different components.
 
-_For more examples, please refer to the [Documentation](https://github.com/TomSouthwick/Homework-Week-1_
+_For more examples, please refer to the [Documentation](https://github.com/TomSouthwick/Code-Refactor_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,7 +114,7 @@ _For more examples, please refer to the [Documentation](https://github.com/TomSo
 - ✅ Creating and extending HTML semantics
 - ✅ Creating a ReadME.md
 
-See the [open issues](https://github.com/TomSouthwick/Homework-Week-1/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TomSouthwick/Code-Refactor/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -132,7 +134,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Tom Southwick - [Linkedin](https://linkedin.com/in/tomsouthwick)
 
-Project Link: [https://github.com/TomSouthwick/Homework-Week-1](https://github.com/TomSouthwick/Homework-Week-1)
+Project Link: [https://github.com/TomSouthwick/Code-Refactor](https://github.com/TomSouthwick/Code-Refactor)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,10 +149,10 @@ Project Link: [https://github.com/TomSouthwick/Homework-Week-1](https://github.c
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[issues-shield]: https://img.shields.io/github/issues/TomSouthwick/Homework-Week-1.svg?style=for-the-badge
-[issues-url]: https://github.com/TomSouthwick/Homework-Week-1/issues
-[license-shield]: https://img.shields.io/github/issues/TomSouthwick/Homework-Week-1.svg?style=for-the-badge
-[license-url]: https://github.com/TomSouthwick/Homework-Week-1/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/TomSouthwick/Code-Refactor.svg?style=for-the-badge
+[issues-url]: https://github.com/TomSouthwick/Code-Refactor/issues
+[license-shield]: https://img.shields.io/github/issues/TomSouthwick/Code-Refactor.svg?style=for-the-badge
+[license-url]: https://github.com/TomSouthwick/Code-Refactor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tomsouthwick
 [product-screenshot]: images/screenshot.png
