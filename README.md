@@ -26,11 +26,11 @@
   </p>
 </div>
 <div align="center">
-<img src="assets/images/dynamicPage.png" width="100%" height="100%">
+<img src="/assets/images/dynamicPage.png" width="100%" height="100%">
 </div>
 <br />
 <div align="center">
-<img src="assets/images/Giph-homework-week-1.gif" width="90%" height="100%">
+<img src="/assets/images/Giph-homework-week-1.gif" width="90%" height="100%">
 </div>
  <br />
  <br />
